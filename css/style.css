@@ -1,0 +1,26 @@
+html {
+    background-color: rgb(56, 54, 54);
+
+}
+h1 {
+    color: blanchedalmond;
+    border: 3px dashed white;
+    text-align: center;
+}
+p {
+    color: blanchedalmond;
+    border: 2px solid white;
+    text-align: center;
+    font-size: xx-large;
+}
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+    
+}
+footer {
+    color: whitesmoke;
+
+}
