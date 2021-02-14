@@ -1,37 +1,79 @@
 html {
-    background-color: rgb(56, 54, 54);
+    background-color: #3caea3;
 
 }
 h1 {
-    color: blanchedalmond;
-    border: 3px dashed white;
+    color: #ed553b;
+    border: 3px solid #f6d55c;
     text-align: center;
+    margin: 20px;
+    font-size: xx-large;
+    padding: 20px;
+    background-color:#173f5f;
+    font-family: 'Fjalla One', sans-serif;: 'Ranchers', cursive;
 }
 p {
-    color: blanchedalmond;
-    border: 2px solid white;
-    text-align: center;
-    font-size: xx-large;
+    background-color:#173f5f;
+    color: #ed553b;
+    border: 2px solid #f6d55c;
+    text-align: left;
+    font-size: large;
+    margin: 20px;
+    padding: 20px;
+    font-family: 'Fjalla One', sans-serif;: 'Anton', sans-serif;
 }
 img {
     display: block;
   margin-left: auto;
   margin-right: auto;
   width: 75%;
+  border: 2px solid #173f5f;
     
 }
 footer {
     color: whitesmoke;
+    font-family: 'Fjalla One', sans-serif;: 'Anton', sans-serif;
 
 }
 h3 {
-    color: blanchedalmond;
+    border: 2px solid #f6d55c;
+    background-color:#173f5f;
+    color:#ed553b;
     font-size: larger;
+    font-family: 'Fjalla One', sans-serif;: 'Anton', sans-serif;
 }
 ul {
-    color: blanchedalmond;
+    border: 2px solid #f6d55c;
+    background-color:#173f5f;
+    color: #ed553b;
+    margin: 20px;
+    padding: 10px;
+    list-style-type: disc;
+    font-family: 'Fjalla One', sans-serif;: 'Anton', sans-serif;
+    
 
 }
+ul li{
+    margin: 20px;
+    font-family: 'Fjalla One', sans-serif;: 'Anton', sans-serif;
+}
+ol  {
+    border: 2px solid #f6d55c;
+    background-color:#173f5f;
+    color:#ed553b;
+    margin: 20px;
+    padding: 20px;
+    list-style-type:decimal;
+    font-family: 'Fjalla One', sans-serif;: 'Anton', sans-serif;
+}
 ol li {
-    color: blanchedalmond;
+    padding: 5px;
+    margin-left: 15px;
+    font-family: 'Fjalla One', sans-serif;: 'Anton', sans-serif;
+}
+#edu{
+    border: 0px solid white;
+    margin: 5px;
+    padding: 1px;
+    font-family: 'Fjalla One', sans-serif;: 'Anton', sans-serif;
 }

@@ -29,7 +29,9 @@ function question2() {
 
 function question3() {
 let answer3 = prompt('Am I a student at ASAC? (y/n)');
+
 if (answer3.toLowerCase() === 'y') {
+
   alert('That\'s correct!');
   score++;
 }
@@ -39,7 +41,9 @@ else {
 
 function question4() {
 let answer4 = prompt('Do I have a background in programming? (y/n)');
+
 if (answer4.toLowerCase() === 'y') {
+
   alert('That\'s incorrect!');
 }
 else {
